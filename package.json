@@ -1,4 +1,7 @@
 {
+  "engines": {
+  "node": "18.x"
+},
   "name": "accredian-clone",
   "version": "0.1.0",
   "private": true,
@@ -25,4 +28,5 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
+ 
 }
